@@ -1,0 +1,4 @@
+{
+  "websites": ["example.com", "https://www.example.com/about"],
+  "minConfidence": "medium"
+}
